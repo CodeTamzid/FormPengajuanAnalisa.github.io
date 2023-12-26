@@ -1,0 +1,14 @@
+#content {
+  padding-top: 14rem;
+}
+.navbar-top {
+  display: block;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+.navbar-bottom {
+  width: 100%;
+  position: fixed;
+  z-index: 200;
+}
